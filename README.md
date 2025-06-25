@@ -18,13 +18,13 @@ Welcome to the **Discord Raid & Event Management Bot**! This project is a robust
 
 ## 🚀 Why This Project Matters
 
-Running a gaming community is hard work! We built this bot to automate the tedious parts—so you can focus on having fun and building your community. Every feature is designed to:
-- **Save you time**
+Running a gaming community is hard work! I built this bot to automate the tedious parts—so we can focus on having fun and building our community. Every feature is designed to:
+- **Save time**
 - **Reduce mistakes**
 - **Keep everyone in the loop**
 - **Protect your data and privacy**
 
-This project represents many hours of careful engineering, security review, and real-world testing. We hope it makes your community management easier and more enjoyable!
+This project represents many hours of careful engineering, security review, and real-world testing. I hope it makes your community management easier and more enjoyable!
 
 ---
 
@@ -43,7 +43,7 @@ This project represents many hours of careful engineering, security review, and 
 
 ## 📦 How We Use It
 
-This bot is tailored for our community's unique needs. It is not intended for general public use or as a plug-and-play solution. The configuration, credentials, and channel IDs are all specific to our setup. If you're reading this out of curiosity or for inspiration, welcome! But please note that this project is highly customized and not supported as a general-purpose tool.
+This bot is tailored for our community's unique needs. It is not intended for general public use or as a plug-and-play solution. The configuration, credentials, and channel IDs are all specific to our setup. If you're reading this out of curiosity or for inspiration, welcome! Feel free to message me and I can help with specifics.
 
 ---
 
@@ -75,7 +75,7 @@ This bot is tailored for our community's unique needs. It is not intended for ge
 
 ## 🙏 Acknowledgements
 
-This project is the result of many hours of work by passionate gamers and engineers who wanted to make community management easier for everyone. Thank you for using it, and we hope it helps your guild or group thrive!
+This project is the result of many hours of work by a passionate gamer and engineer who wanted to make community management easier for everyone. Thank you for using it, and we hope it helps your guild or group thrive!
 
 ---
 
