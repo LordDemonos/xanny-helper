@@ -1,0 +1,37 @@
+# Dependencies
+node_modules/
+
+# Environment and secrets (never commit)
+.env
+.env.local
+.env.*.local
+config/*.json
+GOOGLE_CREDENTIALS.json
+google-service-account.json
+**/google-service-account.json
+
+# Build output
+dist/
+
+# Runtime and cache
+cache/
+*.log
+combined.log
+error.log
+logs/
+
+# IDE and editor
+.cursor/
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Optional: uncomment if you keep local test data out of repo
+# assets/data/offnight.txt
+# assets/data/raids.txt

@@ -1,0 +1,20 @@
+services:
+  bot:
+    image: demonos/xanny-helper:latest
+    pull_policy: always
+    container_name: xanny-helper
+    volumes:
+      - /mnt/user/appdata/xanny-helper/config:/app/config
+      - /mnt/user/appdata/xanny-helper/cache:/app/cache
+      - /mnt/user/appdata/xanny-helper/data:/app/assets/data
+    environment:
+      - NODE_ENV=production
+      - GOOGLE_APPLICATION_CREDENTIALS=/app/config/GOOGLE_CREDENTIALS.json
+    restart: unless-stopped
+    # Add healthcheck
+    healthcheck:
+      test: ["CMD", "node", "healthcheck.js"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+      start_period: 40s

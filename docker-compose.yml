@@ -1,0 +1,16 @@
+services:
+  bot:
+    build: .
+    image: demonos/xanny-helper:latest
+    container_name: xanny-helper
+    volumes:
+      - .:/app
+      - /app/node_modules
+      - /mnt/user/appdata/xanny-bot/config/GOOGLE_CREDENTIALS.json:/app/config/GOOGLE_CREDENTIALS.json:ro
+      - ./cache:/app/cache
+    env_file:
+      - .env
+    environment:
+      - NODE_ENV=development
+      - GOOGLE_APPLICATION_CREDENTIALS=/app/config/GOOGLE_CREDENTIALS.json
+    restart: unless-stopped 

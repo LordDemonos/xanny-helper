@@ -1,0 +1,27 @@
+# Dependencies (installed in container)
+node_modules/
+
+# Secrets and local config (mount at runtime)
+.env
+.env.*
+config/*.json
+
+# Build output (rebuilt in image if needed)
+dist/
+
+# Git and IDE
+.git
+.gitignore
+.cursor
+.idea
+.vscode
+
+# Logs and cache (ephemeral at runtime)
+*.log
+cache/
+logs/
+
+# Docs and dev (optional: remove if you want them in image)
+# docs/
+# *.md
+# !README.md

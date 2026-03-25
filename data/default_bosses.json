@@ -1,0 +1,1493 @@
+{
+  "bosses": [
+    {
+      "name": "Faydedar",
+      "enabled": true,
+      "webhook_url": null,
+      "first_seen": "2025-11-23T21:45:35.862495",
+      "kill_count": 0,
+      "location": "Timorous Deep",
+      "respawn_hours": 66.0
+    },
+    {
+      "name": "Magus Rokyl",
+      "location": "Nagafen's Lair (Instanced)",
+      "enabled": true,
+      "webhook_url": null,
+      "first_seen": "2026-02-02T01:22:21.147631",
+      "kill_count": 0,
+      "last_killed": null,
+      "respawn_hours": 18.0
+    },
+    {
+      "name": "Warlord Skarlon",
+      "location": "Nagafen's Lair (Instanced)",
+      "enabled": true,
+      "webhook_url": null,
+      "first_seen": "2026-02-02T01:22:21.699732",
+      "kill_count": 0,
+      "last_killed": null,
+      "respawn_hours": 18.0
+    },
+    {
+      "name": "King Tranix",
+      "location": "Nagafen's Lair (Instanced)",
+      "enabled": true,
+      "webhook_url": null,
+      "first_seen": "2026-02-02T01:22:21.930627",
+      "kill_count": 0,
+      "last_killed": null,
+      "respawn_hours": 18.0
+    },
+    {
+      "name": "Lady Vox",
+      "location": "Permafrost Caverns",
+      "enabled": true,
+      "webhook_url": null,
+      "first_seen": "2026-02-02T20:14:11.446986",
+      "kill_count": 0,
+      "last_killed": null,
+      "respawn_hours": 162.0
+    },
+    {
+      "name": "Lord Nagafen",
+      "location": "Nagafen's Lair",
+      "enabled": true,
+      "webhook_url": null,
+      "first_seen": "2026-02-02T20:14:54.294042",
+      "kill_count": 0,
+      "last_killed": null,
+      "respawn_hours": 162.0
+    },
+    {
+      "name": "Ashenbone Broodmaster",
+      "location": "Plane of Hate (Instanced)",
+      "enabled": true,
+      "webhook_url": null,
+      "first_seen": "2026-02-02T20:16:59.928124",
+      "kill_count": 0,
+      "last_killed": null,
+      "respawn_hours": 18.0
+    },
+    {
+      "name": "Grieg Veneficus",
+      "location": "Grieg's End",
+      "enabled": true,
+      "webhook_url": null,
+      "first_seen": "2026-02-02T20:19:16.357689",
+      "kill_count": 0,
+      "last_killed": null,
+      "respawn_hours": 162.0
+    },
+    {
+      "name": "Master Yael",
+      "location": "The Hole",
+      "enabled": true,
+      "webhook_url": null,
+      "first_seen": "2026-02-02T21:06:40.200436",
+      "kill_count": 0,
+      "last_killed": null,
+      "respawn_hours": 66.0
+    },
+    {
+      "name": "Severilous",
+      "location": "The Emerald Jungle",
+      "enabled": true,
+      "webhook_url": null,
+      "first_seen": "2026-02-02T21:06:40.961111",
+      "kill_count": 0,
+      "last_killed": null,
+      "respawn_hours": 66.0
+    },
+    {
+      "name": "Midayor",
+      "location": "Temple of Veeshan",
+      "enabled": false,
+      "webhook_url": null,
+      "first_seen": "2026-02-02T21:06:41.487407",
+      "kill_count": 0,
+      "last_killed": null,
+      "respawn_hours": 18.0
+    },
+    {
+      "name": "Ymmeln",
+      "location": "Temple of Veeshan",
+      "enabled": false,
+      "webhook_url": null,
+      "first_seen": "2026-02-02T21:06:41.735679",
+      "kill_count": 0,
+      "last_killed": null,
+      "respawn_hours": 18.0
+    },
+    {
+      "name": "Dozekar the Cursed",
+      "location": "Temple of Veeshan",
+      "enabled": false,
+      "webhook_url": null,
+      "first_seen": "2026-02-02T21:06:41.979293",
+      "kill_count": 0,
+      "last_killed": null,
+      "respawn_hours": 66.0
+    },
+    {
+      "name": "Grozzmel",
+      "location": "Temple of Veeshan",
+      "enabled": false,
+      "webhook_url": null,
+      "first_seen": "2026-02-02T21:06:42.274366",
+      "kill_count": 0,
+      "last_killed": null,
+      "respawn_hours": 18.0
+    },
+    {
+      "name": "Krigara",
+      "location": "Temple of Veeshan",
+      "enabled": false,
+      "webhook_url": null,
+      "first_seen": "2026-02-02T21:06:42.638630",
+      "kill_count": 0,
+      "last_killed": null,
+      "respawn_hours": 18.0
+    },
+    {
+      "name": "Casalen",
+      "location": "Temple of Veeshan",
+      "enabled": false,
+      "webhook_url": null,
+      "first_seen": "2026-02-02T21:06:42.863517",
+      "kill_count": 0,
+      "last_killed": null,
+      "respawn_hours": 18.0
+    },
+    {
+      "name": "Lepethida",
+      "location": "Temple of Veeshan",
+      "enabled": false,
+      "webhook_url": null,
+      "first_seen": "2026-02-02T21:06:43.110770",
+      "kill_count": 0,
+      "last_killed": null,
+      "respawn_hours": 18.0
+    },
+    {
+      "name": "Tavekalem",
+      "location": "Temple of Veeshan",
+      "enabled": false,
+      "webhook_url": null,
+      "first_seen": "2026-02-02T21:06:43.371833",
+      "kill_count": 0,
+      "last_killed": null,
+      "respawn_hours": 18.0
+    },
+    {
+      "name": "Essedera",
+      "location": "Temple of Veeshan",
+      "enabled": false,
+      "webhook_url": null,
+      "first_seen": "2026-02-02T21:06:43.683661",
+      "kill_count": 0,
+      "last_killed": null,
+      "respawn_hours": 18.0
+    },
+    {
+      "name": "Zlandicar",
+      "location": "Dragon Necropolis",
+      "enabled": true,
+      "webhook_url": null,
+      "first_seen": "2026-02-02T21:06:43.908500",
+      "kill_count": 0,
+      "last_killed": null,
+      "respawn_hours": 66.0
+    },
+    {
+      "name": "Klandicar",
+      "location": "Western Wastes",
+      "enabled": false,
+      "webhook_url": null,
+      "first_seen": "2026-02-02T21:06:44.174620",
+      "kill_count": 0,
+      "last_killed": null,
+      "respawn_hours": 66.0
+    },
+    {
+      "name": "Cazic Thule",
+      "location": "Plane of Fear (Instanced)",
+      "enabled": true,
+      "webhook_url": null,
+      "first_seen": "2026-02-02T21:06:44.571922",
+      "kill_count": 0,
+      "last_killed": null,
+      "respawn_hours": 162.0
+    },
+    {
+      "name": "Eashen of the Sky",
+      "location": "Temple of Veeshan",
+      "enabled": false,
+      "webhook_url": null,
+      "first_seen": "2026-02-02T21:06:54.612062",
+      "kill_count": 0,
+      "last_killed": null,
+      "respawn_hours": 162.0
+    },
+    {
+      "name": "Ikatiar the Venom",
+      "location": "Temple of Veeshan",
+      "enabled": false,
+      "webhook_url": null,
+      "first_seen": "2026-02-02T21:07:46.962563",
+      "kill_count": 0,
+      "last_killed": null,
+      "respawn_hours": 162.0
+    },
+    {
+      "name": "Lady Mirenilla",
+      "location": "Temple of Veeshan",
+      "enabled": false,
+      "webhook_url": null,
+      "first_seen": "2026-02-02T21:18:35.712701",
+      "kill_count": 0,
+      "last_killed": null,
+      "respawn_hours": 162.0
+    },
+    {
+      "name": "Lord Koi`Doken",
+      "location": "Temple of Veeshan",
+      "enabled": false,
+      "webhook_url": null,
+      "first_seen": "2026-02-02T21:18:36.558881",
+      "kill_count": 0,
+      "last_killed": null,
+      "respawn_hours": 162.0
+    },
+    {
+      "name": "Lord Vyemm",
+      "location": "Temple of Veeshan",
+      "enabled": false,
+      "webhook_url": null,
+      "first_seen": "2026-02-02T21:18:37.317735",
+      "kill_count": 0,
+      "last_killed": null,
+      "respawn_hours": 162.0
+    },
+    {
+      "name": "Lord Kreizenn",
+      "location": "Temple of Veeshan",
+      "enabled": false,
+      "webhook_url": null,
+      "first_seen": "2026-02-02T21:18:38.074210",
+      "kill_count": 0,
+      "last_killed": null,
+      "respawn_hours": 162.0
+    },
+    {
+      "name": "Lord Feshlak",
+      "location": "Temple of Veeshan",
+      "enabled": false,
+      "webhook_url": null,
+      "first_seen": "2026-02-02T21:18:38.776930",
+      "kill_count": 0,
+      "last_killed": null,
+      "respawn_hours": 162.0
+    },
+    {
+      "name": "Dagarn the Destroyer",
+      "location": "Temple of Veeshan",
+      "enabled": false,
+      "webhook_url": null,
+      "first_seen": "2026-02-02T21:18:39.378592",
+      "kill_count": 0,
+      "last_killed": null,
+      "respawn_hours": 162.0
+    },
+    {
+      "name": "Aaryonar",
+      "location": "Temple of Veeshan",
+      "enabled": false,
+      "webhook_url": null,
+      "first_seen": "2026-02-02T21:18:40.008633",
+      "kill_count": 0,
+      "last_killed": null,
+      "respawn_hours": 162.0
+    },
+    {
+      "name": "Lady Nevederia",
+      "location": "Temple of Veeshan",
+      "enabled": false,
+      "webhook_url": null,
+      "first_seen": "2026-02-02T21:23:52.315822",
+      "kill_count": 0,
+      "last_killed": null,
+      "respawn_hours": 162.0
+    },
+    {
+      "name": "Jorlleag",
+      "location": "Temple of Veeshan",
+      "enabled": false,
+      "webhook_url": null,
+      "first_seen": "2026-02-02T21:23:52.806495",
+      "kill_count": 0,
+      "last_killed": null,
+      "respawn_hours": 162.0
+    },
+    {
+      "name": "Zlexak",
+      "location": "Temple of Veeshan",
+      "enabled": false,
+      "webhook_url": null,
+      "first_seen": "2026-02-02T21:23:53.312260",
+      "kill_count": 0,
+      "last_killed": null,
+      "respawn_hours": 162.0
+    },
+    {
+      "name": "Cekenar",
+      "location": "Temple of Veeshan",
+      "enabled": false,
+      "webhook_url": null,
+      "first_seen": "2026-02-02T21:23:54.005150",
+      "kill_count": 0,
+      "last_killed": null,
+      "respawn_hours": 162.0
+    },
+    {
+      "name": "Sevalak",
+      "location": "Temple of Veeshan",
+      "enabled": false,
+      "webhook_url": null,
+      "first_seen": "2026-02-02T21:23:54.796519",
+      "kill_count": 0,
+      "last_killed": null,
+      "respawn_hours": 162.0
+    },
+    {
+      "name": "Lord of Ire",
+      "location": "Plane of Hate (Instanced)",
+      "enabled": true,
+      "webhook_url": null,
+      "first_seen": "2026-02-02T21:33:48.869292",
+      "kill_count": 0,
+      "last_killed": null,
+      "respawn_hours": 18.0
+    },
+    {
+      "name": "Derakor the Vindicator",
+      "location": "Kael Drakkel",
+      "enabled": true,
+      "webhook_url": null,
+      "first_seen": "2026-02-02T21:41:31.156323",
+      "kill_count": 0,
+      "last_killed": null,
+      "respawn_hours": 66.0
+    },
+    {
+      "name": "Hraashna the Warder",
+      "location": "Sleeper's Tomb",
+      "enabled": true,
+      "webhook_url": null,
+      "first_seen": "2026-02-02T21:56:55.330566",
+      "kill_count": 0,
+      "last_killed": null,
+      "respawn_hours": 162.0
+    },
+    {
+      "name": "Tukaarak the Warder",
+      "location": "Sleeper's Tomb",
+      "enabled": true,
+      "webhook_url": null,
+      "first_seen": "2026-02-02T21:56:56.228095",
+      "kill_count": 0,
+      "last_killed": null,
+      "respawn_hours": 162.0
+    },
+    {
+      "name": "Ventani the Warder",
+      "location": "Sleeper's Tomb",
+      "enabled": true,
+      "webhook_url": null,
+      "first_seen": "2026-02-02T21:56:57.475922",
+      "kill_count": 0,
+      "last_killed": null,
+      "respawn_hours": 162.0
+    },
+    {
+      "name": "Nanzata the Warder",
+      "location": "Sleeper's Tomb",
+      "enabled": true,
+      "webhook_url": null,
+      "first_seen": "2026-02-02T21:56:58.258781",
+      "kill_count": 0,
+      "last_killed": null,
+      "respawn_hours": 162.0
+    },
+    {
+      "name": "The Final Arbiter",
+      "location": "Sleeper's Tomb",
+      "enabled": true,
+      "webhook_url": null,
+      "first_seen": "2026-02-02T21:56:59.154311",
+      "kill_count": 0,
+      "last_killed": null,
+      "respawn_hours": 162.0
+    },
+    {
+      "name": "Master of the Guard",
+      "location": "Sleeper's Tomb",
+      "enabled": true,
+      "webhook_url": null,
+      "first_seen": "2026-02-02T21:57:00.006517",
+      "kill_count": 0,
+      "last_killed": null,
+      "respawn_hours": 162.0
+    },
+    {
+      "name": "The Progenitor",
+      "location": "Sleeper's Tomb",
+      "enabled": true,
+      "webhook_url": null,
+      "first_seen": "2026-02-02T21:57:00.813005",
+      "kill_count": 0,
+      "last_killed": null,
+      "respawn_hours": 162.0
+    },
+    {
+      "name": "The Avatar of War",
+      "location": "Kael Drakkel",
+      "enabled": true,
+      "webhook_url": null,
+      "first_seen": "2026-02-02T21:57:01.432710",
+      "kill_count": 0,
+      "last_killed": null,
+      "respawn_hours": 162.0
+    },
+    {
+      "name": "The Idol of Rallos Zek",
+      "location": "Kael Drakkel",
+      "enabled": true,
+      "webhook_url": null,
+      "first_seen": "2026-02-02T21:57:01.774337",
+      "kill_count": 0,
+      "last_killed": null,
+      "respawn_hours": 162.0
+    },
+    {
+      "name": "The Statue of Rallos Zek",
+      "location": "Kael Drakkel",
+      "enabled": true,
+      "webhook_url": null,
+      "first_seen": "2026-02-02T21:57:02.191532",
+      "kill_count": 0,
+      "last_killed": null,
+      "respawn_hours": 162.0
+    },
+    {
+      "name": "King Tormax",
+      "location": "Kael Drakkel",
+      "enabled": true,
+      "webhook_url": null,
+      "first_seen": "2026-02-02T22:10:30.001837",
+      "kill_count": 0,
+      "last_killed": null,
+      "respawn_hours": 162.0
+    },
+    {
+      "name": "Lord Yelinak",
+      "location": "Skyshrine",
+      "enabled": false,
+      "webhook_url": null,
+      "first_seen": "2026-02-02T22:10:30.971783",
+      "kill_count": 0,
+      "last_killed": null,
+      "respawn_hours": 162.0
+    },
+    {
+      "name": "Dread",
+      "location": "Plane of Fear (Instanced)",
+      "enabled": true,
+      "webhook_url": null,
+      "first_seen": "2026-02-02T22:13:17.738681",
+      "kill_count": 0,
+      "last_killed": null,
+      "respawn_hours": 18.0
+    },
+    {
+      "name": "Terror",
+      "location": "Plane of Fear (Instanced)",
+      "enabled": true,
+      "webhook_url": null,
+      "first_seen": "2026-02-02T22:13:18.795875",
+      "kill_count": 0,
+      "last_killed": null,
+      "respawn_hours": 18.0
+    },
+    {
+      "name": "Fright",
+      "location": "Plane of Fear (Instanced)",
+      "enabled": true,
+      "webhook_url": null,
+      "first_seen": "2026-02-02T22:13:19.412793",
+      "kill_count": 0,
+      "last_killed": null,
+      "respawn_hours": 18.0
+    },
+    {
+      "name": "a dracoliche",
+      "location": "Plane of Fear (Instanced)",
+      "enabled": true,
+      "webhook_url": null,
+      "first_seen": "2026-02-02T22:13:20.001805",
+      "kill_count": 0,
+      "last_killed": null,
+      "respawn_hours": 66.0
+    },
+    {
+      "name": "Phinigel Autropos",
+      "location": "Kedge Keep",
+      "enabled": true,
+      "webhook_url": null,
+      "first_seen": "2026-02-02T22:21:30.574465",
+      "kill_count": 0,
+      "last_killed": null,
+      "respawn_hours": 18.0
+    },
+    {
+      "name": "Kelorek`Dar",
+      "location": "Cobaltscar",
+      "enabled": true,
+      "webhook_url": null,
+      "first_seen": "2026-02-02T22:21:31.847290",
+      "kill_count": 0,
+      "last_killed": null,
+      "respawn_hours": 162.0
+    },
+    {
+      "name": "Lodizal",
+      "location": "Iceclad Ocean",
+      "enabled": true,
+      "webhook_url": null,
+      "first_seen": "2026-02-02T23:11:16.787266",
+      "kill_count": 0,
+      "last_killed": null,
+      "respawn_hours": 18.0
+    },
+    {
+      "name": "Gorenaire",
+      "location": "The Dreadlands",
+      "enabled": true,
+      "webhook_url": null,
+      "first_seen": "2026-02-02T23:12:41.366018",
+      "kill_count": 0,
+      "last_killed": null,
+      "respawn_hours": 66.0
+    },
+    {
+      "name": "Talendor",
+      "location": "Skyfire Mountains",
+      "enabled": true,
+      "webhook_url": null,
+      "first_seen": "2026-02-02T23:12:43.492527",
+      "kill_count": 0,
+      "last_killed": null,
+      "respawn_hours": 66.0
+    },
+    {
+      "name": "Thall Xundraux Diabo",
+      "note": "Floor 2 North",
+      "location": "Vex Thal",
+      "enabled": true,
+      "webhook_url": null,
+      "first_seen": "2026-02-04T21:38:26.966519",
+      "kill_count": 0,
+      "last_killed": null,
+      "respawn_hours": 162.0
+    },
+    {
+      "name": "Kaas Thox Xi Aten Ha Ra",
+      "location": "Vex Thal",
+      "note": "North Blob",
+      "enabled": true,
+      "webhook_url": null,
+      "first_seen": "2026-02-04T21:58:57.161356",
+      "kill_count": 0,
+      "last_killed": null,
+      "respawn_hours": 162.0
+    },
+    {
+      "name": "Kaas Thox Xi Aten Ha Ra",
+      "location": "Vex Thal",
+      "note": "South Blob",
+      "enabled": true,
+      "webhook_url": null,
+      "first_seen": "2026-02-04T21:58:57.161356",
+      "kill_count": 0,
+      "last_killed": null,
+      "respawn_hours": 162.0
+    },
+    {
+      "name": "Aten Ha Ra",
+      "location": "Vex Thal",
+      "enabled": true,
+      "webhook_url": null,
+      "first_seen": "2026-02-04T22:20:29.266839",
+      "kill_count": 0,
+      "last_killed": null,
+      "respawn_hours": 162.0
+    },
+    {
+      "name": "Xerkizh The Creator",
+      "note": "XTC",
+      "location": "Ssraeshza Temple",
+      "enabled": true,
+      "webhook_url": null,
+      "first_seen": "2026-02-04T23:52:20.893606",
+      "kill_count": 0,
+      "last_killed": null,
+      "respawn_hours": 66.0
+    },
+    {
+      "name": "High Priest of Ssraeshza",
+      "note": "HP",
+      "location": "Ssraeshza Temple",
+      "enabled": true,
+      "webhook_url": null,
+      "first_seen": "2026-02-05T00:12:27.235249",
+      "kill_count": 0,
+      "last_killed": null,
+      "respawn_hours": 66.0
+    },
+    {
+      "name": "Kaas Thox Xi Ans Dyek",
+      "location": "Vex Thal",
+      "enabled": true,
+      "webhook_url": null,
+      "first_seen": "2026-02-06T21:14:44.588240",
+      "kill_count": 0,
+      "last_killed": null,
+      "respawn_hours": 162.0
+    },
+    {
+      "name": "Diabo Xi Xin Thall",
+      "note": "Floor 1.5 West",
+      "location": "Vex Thal",
+      "enabled": true,
+      "webhook_url": null,
+      "first_seen": "2026-02-06T22:12:20.656971",
+      "kill_count": 1,
+      "last_killed": "2026-02-06T22:12:20.684523",
+      "respawn_hours": 162.0
+    },
+    {
+      "name": "Thall Va Kelun",
+      "note": "Floor 2 West",
+      "location": "Vex Thal",
+      "enabled": true,
+      "webhook_url": null,
+      "first_seen": "2026-02-07T00:12:53.390957",
+      "kill_count": 1,
+      "last_killed": "2026-02-07T00:12:53.417097",
+      "respawn_hours": 162.0
+    },
+    {
+      "name": "Royal Scribe Kaavin",
+      "location": "Icewell Keep",
+      "enabled": false,
+      "webhook_url": null,
+      "first_seen": "2026-02-07T00:53:02.539032",
+      "kill_count": 0,
+      "last_killed": null,
+      "respawn_hours": 66.0
+    },
+    {
+      "name": "Prince Selrach Di`zok",
+      "location": "Chardok",
+      "enabled": true,
+      "webhook_url": null,
+      "first_seen": "2026-02-07T00:53:02.539555",
+      "kill_count": 0,
+      "last_killed": null,
+      "respawn_hours": 18.0
+    },
+    {
+      "name": "Overking Bathezid",
+      "location": "Chardok",
+      "enabled": true,
+      "webhook_url": null,
+      "first_seen": "2026-02-07T00:53:02.540076",
+      "kill_count": 0,
+      "last_killed": null,
+      "respawn_hours": 18.0
+    },
+    {
+      "name": "Praesertum Rhugol",
+      "location": "Sanctus Seru",
+      "enabled": true,
+      "webhook_url": null,
+      "first_seen": "2026-02-07T00:53:02.541111",
+      "kill_count": 3,
+      "last_killed": "2026-02-07T21:18:33.530636",
+      "respawn_hours": 18.0
+    },
+    {
+      "name": "Praesertum Bikun",
+      "location": "Sanctus Seru",
+      "enabled": true,
+      "webhook_url": null,
+      "first_seen": "2026-02-07T00:53:02.541633",
+      "kill_count": 3,
+      "last_killed": "2026-02-07T21:07:53.316599",
+      "respawn_hours": 18.0
+    },
+    {
+      "name": "Praesertum Matpa",
+      "location": "Sanctus Seru",
+      "enabled": true,
+      "webhook_url": null,
+      "first_seen": "2026-02-07T00:53:02.542152",
+      "kill_count": 3,
+      "last_killed": "2026-02-07T21:22:54.969363",
+      "respawn_hours": 18.0
+    },
+    {
+      "name": "Praesertum Vantorus",
+      "location": "Sanctus Seru",
+      "enabled": true,
+      "webhook_url": null,
+      "first_seen": "2026-02-07T00:53:02.542668",
+      "kill_count": 3,
+      "last_killed": "2026-02-07T21:28:42.915079",
+      "respawn_hours": 18.0
+    },
+    {
+      "name": "Servitor of Luclin",
+      "location": "Grieg's End",
+      "enabled": true,
+      "webhook_url": null,
+      "first_seen": "2026-02-07T00:53:02.543188",
+      "kill_count": 0,
+      "last_killed": null,
+      "respawn_hours": 66.0
+    },
+    {
+      "name": "Praetorian Myral",
+      "location": "Grieg's End",
+      "enabled": true,
+      "webhook_url": null,
+      "first_seen": "2026-02-07T00:53:02.544216",
+      "kill_count": 0,
+      "last_killed": null,
+      "respawn_hours": 18.0
+    },
+    {
+      "name": "Thought Horror Overfiend",
+      "location": "The Deep",
+      "enabled": true,
+      "webhook_url": null,
+      "first_seen": "2026-02-07T00:53:02.544735",
+      "kill_count": 0,
+      "last_killed": null,
+      "respawn_hours": 66.0
+    },
+    {
+      "name": "Rhag`Zhezum",
+      "note": "Rhag 1",
+      "location": "Ssraeshza Temple",
+      "enabled": true,
+      "webhook_url": null,
+      "first_seen": "2026-02-07T00:53:02.545256",
+      "kill_count": 0,
+      "last_killed": null,
+      "respawn_hours": 66.0
+    },
+    {
+      "name": "Lord Inquisitor Seru",
+      "location": "Sanctus Seru",
+      "enabled": true,
+      "webhook_url": null,
+      "first_seen": "2026-02-07T00:53:02.545773",
+      "kill_count": 3,
+      "last_killed": "2026-02-07T22:14:51.906471",
+      "respawn_hours": 162.0
+    },
+    {
+      "name": "The Va`Dyn",
+      "location": "Akheva Ruins",
+      "enabled": true,
+      "webhook_url": null,
+      "first_seen": "2026-02-07T00:53:02.546860",
+      "kill_count": 0,
+      "last_killed": null,
+      "respawn_hours": 66.0
+    },
+    {
+      "name": "Thall Va Xakra",
+      "location": "Vex Thal",
+      "enabled": true,
+      "webhook_url": null,
+      "first_seen": "2026-02-07T00:53:02.547383",
+      "kill_count": 0,
+      "last_killed": null,
+      "respawn_hours": 162.0,
+      "note": "F1 North"
+    },
+    {
+      "name": "Thall Va Xakra",
+      "location": "Vex Thal",
+      "enabled": true,
+      "webhook_url": null,
+      "first_seen": "2026-02-07T00:53:02.547383",
+      "kill_count": 0,
+      "last_killed": null,
+      "respawn_hours": 162.0,
+      "note": "F1 South"
+    },
+    {
+      "name": "Shei Vinitras",
+      "location": "Akheva Ruins",
+      "enabled": true,
+      "webhook_url": null,
+      "first_seen": "2026-02-07T00:53:02.547904",
+      "kill_count": 2,
+      "last_killed": "2026-02-07T23:21:55.494631",
+      "respawn_hours": 66.0
+    },
+    {
+      "name": "Diabo Xi Xin",
+      "note": "Floor 1.5 South",
+      "location": "Vex Thal",
+      "enabled": true,
+      "webhook_url": null,
+      "first_seen": "2026-02-07T00:53:02.548938",
+      "kill_count": 0,
+      "last_killed": null,
+      "respawn_hours": 162.0
+    },
+    {
+      "name": "Diabo Xi Va Temariel",
+      "note": "Floor 2 South",
+      "location": "Vex Thal",
+      "enabled": true,
+      "webhook_url": null,
+      "first_seen": "2026-02-07T00:53:02.549459",
+      "kill_count": 0,
+      "last_killed": null,
+      "respawn_hours": 162.0
+    },
+    {
+      "name": "Va Xi Aten Ha Ra",
+      "location": "Vex Thal",
+      "enabled": true,
+      "webhook_url": null,
+      "first_seen": "2026-02-07T00:53:02.550502",
+      "kill_count": 0,
+      "last_killed": null,
+      "respawn_hours": 162.0
+    },
+    {
+      "name": "The Itraer Vius",
+      "location": "Akheva Ruins",
+      "enabled": true,
+      "webhook_url": null,
+      "first_seen": "2026-02-07T00:53:02.551019",
+      "kill_count": 3,
+      "last_killed": "2026-02-07T22:48:47.091275",
+      "respawn_hours": 66.0
+    },
+    {
+      "name": "Diabo Xi Va",
+      "note": "Floor 1.5 North",
+      "location": "Vex Thal",
+      "enabled": true,
+      "webhook_url": null,
+      "first_seen": "2026-02-07T00:53:02.552045",
+      "kill_count": 0,
+      "last_killed": null,
+      "respawn_hours": 162.0
+    },
+    {
+      "name": "Zelnithak",
+      "location": "The Umbral Plains",
+      "enabled": true,
+      "webhook_url": null,
+      "first_seen": "2026-02-07T00:53:02.552560",
+      "kill_count": 0,
+      "last_killed": null,
+      "respawn_hours": 66.0
+    },
+    {
+      "name": "Rumblecrush",
+      "location": "The Umbral Plains",
+      "enabled": true,
+      "webhook_url": null,
+      "first_seen": "2026-02-07T00:53:02.553081",
+      "kill_count": 0,
+      "last_killed": null,
+      "respawn_hours": 66.0
+    },
+    {
+      "name": "Gozzrem",
+      "location": "Temple of Veeshan",
+      "enabled": false,
+      "webhook_url": null,
+      "first_seen": "2026-02-07T00:53:45.930189",
+      "kill_count": 0,
+      "last_killed": null,
+      "respawn_hours": 162.0
+    },
+    {
+      "name": "Telkorenar",
+      "location": "Temple of Veeshan",
+      "enabled": false,
+      "webhook_url": null,
+      "first_seen": "2026-02-07T00:53:45.931494",
+      "kill_count": 0,
+      "last_killed": null,
+      "respawn_hours": 162.0
+    },
+    {
+      "name": "Lendiniara the Keeper",
+      "location": "Temple of Veeshan",
+      "enabled": false,
+      "webhook_url": null,
+      "first_seen": "2026-02-07T00:53:45.932011",
+      "kill_count": 0,
+      "last_killed": null,
+      "respawn_hours": 162.0
+    },
+    {
+      "name": "Trakanon",
+      "location": "Ruins of Sebilis",
+      "enabled": true,
+      "webhook_url": null,
+      "first_seen": "2026-02-07T00:53:45.933046",
+      "kill_count": 0,
+      "last_killed": null,
+      "respawn_hours": 66.0
+    },
+    {
+      "name": "Tunare",
+      "location": "Plane of Growth",
+      "enabled": false,
+      "webhook_url": null,
+      "first_seen": "2026-02-07T00:53:45.933563",
+      "kill_count": 0,
+      "last_killed": null,
+      "respawn_hours": 162.0
+    },
+    {
+      "name": "Avatar of Abhorrence",
+      "location": "Plane of Hate (Instanced)",
+      "enabled": true,
+      "webhook_url": null,
+      "first_seen": "2026-02-07T00:53:45.934593",
+      "kill_count": 0,
+      "last_killed": null,
+      "respawn_hours": 18.0
+    },
+    {
+      "name": "Silverwing",
+      "location": "Veeshan's Peak",
+      "enabled": true,
+      "webhook_url": null,
+      "first_seen": "2026-02-07T00:53:45.935117",
+      "kill_count": 0,
+      "last_killed": null,
+      "respawn_hours": 66.0
+    },
+    {
+      "name": "Hoshkar",
+      "location": "Veeshan's Peak",
+      "enabled": true,
+      "webhook_url": null,
+      "first_seen": "2026-02-07T00:53:45.936199",
+      "kill_count": 0,
+      "last_killed": null,
+      "respawn_hours": 66.0
+    },
+    {
+      "name": "Phara Dar",
+      "location": "Veeshan's Peak",
+      "enabled": true,
+      "webhook_url": null,
+      "first_seen": "2026-02-07T00:53:45.937235",
+      "kill_count": 0,
+      "last_killed": null,
+      "respawn_hours": 66.0
+    },
+    {
+      "name": "Xygoz",
+      "location": "Veeshan's Peak",
+      "enabled": true,
+      "webhook_url": null,
+      "first_seen": "2026-02-07T00:53:45.937750",
+      "kill_count": 0,
+      "last_killed": null,
+      "respawn_hours": 66.0
+    },
+    {
+      "name": "Nexona",
+      "location": "Veeshan's Peak",
+      "enabled": true,
+      "webhook_url": null,
+      "first_seen": "2026-02-07T00:53:45.938784",
+      "kill_count": 0,
+      "last_killed": null,
+      "respawn_hours": 66.0
+    },
+    {
+      "name": "Druushk",
+      "location": "Veeshan's Peak",
+      "enabled": true,
+      "webhook_url": null,
+      "first_seen": "2026-02-07T00:53:45.939300",
+      "kill_count": 0,
+      "last_killed": null,
+      "respawn_hours": 66.0
+    },
+    {
+      "name": "Queen Velazul Di`zok",
+      "location": "Chardok",
+      "enabled": true,
+      "webhook_url": null,
+      "first_seen": "2026-02-07T00:53:45.940344",
+      "kill_count": 0,
+      "last_killed": null,
+      "respawn_hours": 18.0
+    },
+    {
+      "name": "Magi P`tasa",
+      "location": "Plane of Hate (Instanced)",
+      "enabled": true,
+      "webhook_url": null,
+      "first_seen": "2026-02-07T00:53:45.940864",
+      "kill_count": 0,
+      "last_killed": null,
+      "respawn_hours": 18.0
+    },
+    {
+      "name": "Noble Dojorn",
+      "location": "Plane of Sky (Instanced)",
+      "enabled": true,
+      "webhook_url": null,
+      "first_seen": "2026-02-07T00:54:03.291520",
+      "kill_count": 0,
+      "last_killed": null,
+      "respawn_hours": 18.0
+    },
+    {
+      "name": "Protector of Sky",
+      "location": "Plane of Sky (Instanced)",
+      "enabled": true,
+      "webhook_url": null,
+      "first_seen": "2026-02-07T00:54:03.293175",
+      "kill_count": 0,
+      "last_killed": null,
+      "respawn_hours": 18.0
+    },
+    {
+      "name": "Gorgalosk",
+      "location": "Plane of Sky (Instanced)",
+      "enabled": true,
+      "webhook_url": null,
+      "first_seen": "2026-02-07T00:54:03.293678",
+      "kill_count": 0,
+      "last_killed": null,
+      "respawn_hours": 18.0
+    },
+    {
+      "name": "Overseer of Air",
+      "location": "Plane of Sky (Instanced)",
+      "enabled": true,
+      "webhook_url": null,
+      "first_seen": "2026-02-07T00:54:03.294708",
+      "kill_count": 0,
+      "last_killed": null,
+      "respawn_hours": 18.0
+    },
+    {
+      "name": "Keeper of Souls",
+      "location": "Plane of Sky (Instanced)",
+      "enabled": true,
+      "webhook_url": null,
+      "first_seen": "2026-02-07T00:54:03.295227",
+      "kill_count": 0,
+      "last_killed": null,
+      "respawn_hours": 18.0
+    },
+    {
+      "name": "The Spiroc Lord",
+      "location": "Plane of Sky (Instanced)",
+      "enabled": true,
+      "webhook_url": null,
+      "first_seen": "2026-02-07T00:54:03.296259",
+      "kill_count": 0,
+      "last_killed": null,
+      "respawn_hours": 18.0
+    },
+    {
+      "name": "Bazzt Zzzt",
+      "location": "Plane of Sky (Instanced)",
+      "enabled": true,
+      "webhook_url": null,
+      "first_seen": "2026-02-07T00:54:03.297289",
+      "kill_count": 0,
+      "last_killed": null,
+      "respawn_hours": 18.0
+    },
+    {
+      "name": "Sister of the Spire",
+      "location": "Plane of Sky (Instanced)",
+      "enabled": true,
+      "webhook_url": null,
+      "first_seen": "2026-02-07T00:54:03.297814",
+      "kill_count": 0,
+      "last_killed": null,
+      "respawn_hours": 18.0
+    },
+    {
+      "name": "Eye of Veeshan",
+      "location": "Plane of Sky (Instanced)",
+      "enabled": true,
+      "webhook_url": null,
+      "first_seen": "2026-02-07T00:54:03.298867",
+      "kill_count": 0,
+      "last_killed": null,
+      "respawn_hours": 18.0
+    },
+    {
+      "name": "Maestro of Rancor",
+      "location": "Plane of Hate (Instanced)",
+      "enabled": true,
+      "webhook_url": null,
+      "first_seen": "2026-02-07T00:54:03.299901",
+      "kill_count": 0,
+      "last_killed": null,
+      "respawn_hours": 66.0
+    },
+    {
+      "name": "Innoruuk",
+      "location": "Plane of Hate (Instanced)",
+      "enabled": true,
+      "webhook_url": null,
+      "first_seen": "2026-02-07T00:54:03.300427",
+      "kill_count": 0,
+      "last_killed": null,
+      "respawn_hours": 162.0
+    },
+    {
+      "name": "the Hand of Veeshan",
+      "location": "Plane of Sky (Instanced)",
+      "enabled": true,
+      "webhook_url": null,
+      "first_seen": "2026-02-07T00:54:03.301457",
+      "kill_count": 0,
+      "last_killed": null,
+      "respawn_hours": 18.0
+    },
+    {
+      "name": "Venril Sathir",
+      "location": "Karnor's Castle",
+      "enabled": false,
+      "webhook_url": null,
+      "first_seen": "2026-02-07T00:54:03.302493",
+      "kill_count": 0,
+      "last_killed": null,
+      "respawn_hours": 66.0
+    },
+    {
+      "name": "Nortlav the Scalekeeper",
+      "location": "The Hole (Instanced)",
+      "enabled": false,
+      "webhook_url": null,
+      "first_seen": "2026-02-07T00:54:03.303519",
+      "kill_count": 0,
+      "last_killed": null,
+      "respawn_hours": 66.0
+    },
+    {
+      "name": "Drusella Sathir",
+      "location": "The Howling Stones",
+      "enabled": false,
+      "webhook_url": null,
+      "first_seen": "2026-02-07T00:54:19.172097",
+      "kill_count": 0,
+      "last_killed": null,
+      "respawn_hours": 18.0
+    },
+    {
+      "name": "a thunder spirit princess",
+      "location": "Plane of Sky (Instanced)",
+      "enabled": true,
+      "webhook_url": null,
+      "first_seen": "2026-02-07T00:54:19.173539",
+      "kill_count": 0,
+      "last_killed": null,
+      "respawn_hours": 18.0
+    },
+    {
+      "name": "Lord of Loathing",
+      "location": "Plane of Hate (Instanced)",
+      "enabled": true,
+      "webhook_url": null,
+      "first_seen": "2026-02-07T00:55:54.197670",
+      "kill_count": 0,
+      "last_killed": null,
+      "respawn_hours": 18.0
+    },
+    {
+      "name": "Rhag`Mozdezh",
+      "note": "Rhag 2",
+      "location": "Lockouts",
+      "enabled": true,
+      "webhook_url": null,
+      "first_seen": "2026-02-07T01:06:40.016304",
+      "kill_count": 0,
+      "last_killed": null,
+      "respawn_hours": 66.0
+    },
+    {
+      "name": "Arch Lich Rhag`Zadune",
+      "note": "Rhag 3",
+      "location": "Lockouts",
+      "enabled": true,
+      "webhook_url": null,
+      "first_seen": "2026-02-07T01:06:40.017600",
+      "kill_count": 0,
+      "last_killed": null,
+      "respawn_hours": 72.0
+    },
+    {
+      "name": "a glyph covered serpent",
+      "note": "Cursed 1",
+      "location": "Lockouts",
+      "enabled": true,
+      "webhook_url": null,
+      "first_seen": "2026-02-07T01:06:40.018633",
+      "kill_count": 0,
+      "last_killed": null,
+      "respawn_hours": 66.0
+    },
+    {
+      "name": "Vyzh`dra the Exiled",
+      "note": "Cursed 2",
+      "location": "Lockouts",
+      "enabled": true,
+      "webhook_url": null,
+      "first_seen": "2026-02-07T01:06:40.019725",
+      "kill_count": 0,
+      "last_killed": null,
+      "respawn_hours": 66.0
+    },
+    {
+      "name": "Vyzh`dra the Cursed",
+      "note": "Cursed 3",
+      "location": "Lockouts",
+      "enabled": true,
+      "webhook_url": null,
+      "first_seen": "2026-02-07T01:06:40.020251",
+      "kill_count": 0,
+      "last_killed": null,
+      "respawn_hours": 66.0
+    },
+    {
+      "name": "Blood of Ssraeshza",
+      "location": "Lockouts",
+      "enabled": true,
+      "webhook_url": null,
+      "first_seen": "2026-02-07T01:06:40.021294",
+      "kill_count": 0,
+      "last_killed": null,
+      "respawn_hours": 18.0
+    },
+    {
+      "name": "Emperor Ssraeshza",
+      "location": "Lockouts",
+      "enabled": true,
+      "webhook_url": null,
+      "first_seen": "2026-02-07T01:06:40.022320",
+      "kill_count": 0,
+      "last_killed": null,
+      "respawn_hours": 162.0
+    },
+    {
+      "name": "a rune covered serpent",
+      "location": "Lockouts",
+      "enabled": true,
+      "webhook_url": null,
+      "first_seen": "2026-02-07T01:06:40.023359",
+      "kill_count": 0,
+      "last_killed": null,
+      "respawn_hours": 66.0
+    },
+    {
+      "name": "A burrower parasite",
+      "location": "Lockouts",
+      "enabled": true,
+      "webhook_url": null,
+      "first_seen": "2026-02-07T01:06:40.024393",
+      "kill_count": 0,
+      "last_killed": null,
+      "respawn_hours": 66.0
+    },
+    {
+      "name": "The Insanity Crawler",
+      "location": "Lockouts",
+      "enabled": true,
+      "webhook_url": null,
+      "first_seen": "2026-02-07T01:06:40.025434",
+      "kill_count": 0,
+      "last_killed": null,
+      "respawn_hours": 162.0
+    },
+    {
+      "name": "Doomshade",
+      "location": "Lockouts",
+      "enabled": true,
+      "webhook_url": null,
+      "first_seen": "2026-02-07T01:06:40.025950",
+      "kill_count": 0,
+      "last_killed": null,
+      "respawn_hours": 66.0
+    },
+    {
+      "name": "Mistress of Scorn",
+      "location": "Lockouts",
+      "enabled": true,
+      "webhook_url": null,
+      "first_seen": "2026-02-07T01:14:44.736835",
+      "kill_count": 0,
+      "last_killed": null,
+      "respawn_hours": 66.0
+    },
+    {
+      "name": "Grandmaster R`tal",
+      "location": "Lockouts",
+      "enabled": true,
+      "webhook_url": null,
+      "first_seen": "2026-02-07T01:14:44.737891",
+      "kill_count": 0,
+      "last_killed": null,
+      "respawn_hours": 66.0
+    },
+    {
+      "name": "Wuoshi",
+      "location": "Lockouts",
+      "enabled": true,
+      "webhook_url": null,
+      "first_seen": "2026-02-07T01:14:44.739463",
+      "kill_count": 0,
+      "last_killed": null,
+      "respawn_hours": 162.0
+    },
+    {
+      "name": "High Priest M`kari",
+      "location": "Lockouts",
+      "enabled": true,
+      "webhook_url": null,
+      "first_seen": "2026-02-07T01:14:51.241961",
+      "kill_count": 0,
+      "last_killed": null,
+      "respawn_hours": 66.0
+    },
+    {
+      "name": "Hand of the Maestro",
+      "location": "Lockouts",
+      "enabled": true,
+      "webhook_url": null,
+      "first_seen": "2026-02-07T01:14:51.243624",
+      "kill_count": 0,
+      "last_killed": null,
+      "respawn_hours": 66.0
+    },
+    {
+      "name": "Sontalak",
+      "location": "Lockouts",
+      "enabled": true,
+      "webhook_url": null,
+      "first_seen": "2026-02-07T01:14:51.244661",
+      "kill_count": 0,
+      "last_killed": null,
+      "respawn_hours": 66.0
+    },
+    {
+      "name": "Stormfeather",
+      "location": "Lockouts",
+      "enabled": true,
+      "webhook_url": null,
+      "first_seen": "2026-02-07T01:14:51.245713",
+      "kill_count": 0,
+      "last_killed": null,
+      "respawn_hours": 18.0
+    },
+    {
+      "name": "Magi Rokyl",
+      "location": "Nagafen's Lair",
+      "enabled": false,
+      "webhook_url": null,
+      "first_seen": "2026-02-07T01:15:05.387324",
+      "kill_count": 0,
+      "last_killed": null,
+      "respawn_hours": 18.0
+    },
+    {
+      "name": "Khati Sha the Twisted",
+      "location": "Lockouts",
+      "enabled": true,
+      "webhook_url": null,
+      "first_seen": "2026-02-07T01:15:05.388229",
+      "kill_count": 0,
+      "last_killed": null
+    },
+    {
+      "name": "Velketor the Sorcerer",
+      "location": "Lockouts",
+      "enabled": true,
+      "webhook_url": null,
+      "first_seen": "2026-02-07T01:15:05.389816",
+      "kill_count": 0,
+      "last_killed": null,
+      "respawn_hours": 66.0
+    },
+    {
+      "name": "Master of Spite",
+      "location": "Lockouts",
+      "enabled": true,
+      "webhook_url": null,
+      "first_seen": "2026-02-07T01:15:05.390857",
+      "kill_count": 0,
+      "last_killed": null,
+      "respawn_hours": 66.0
+    },
+    {
+      "name": "Dain Frostreaver IV",
+      "location": "Icewell Keep",
+      "enabled": false,
+      "webhook_url": null,
+      "first_seen": "2026-02-08T01:04:39.244632",
+      "kill_count": 0,
+      "last_killed": null,
+      "last_killed_timestamp": null,
+      "respawn_hours": 162.0
+    },
+    {
+      "name": "The Burrower Beast",
+      "location": "The Deep",
+      "enabled": false,
+      "webhook_url": null,
+      "first_seen": "2026-02-08T01:22:36.210173",
+      "kill_count": 0,
+      "last_killed": null,
+      "last_killed_timestamp": null,
+      "respawn_hours": 66.0
+    },
+    {
+      "name": "Lcea Katta",
+      "location": "Katta Castellum",
+      "enabled": false,
+      "webhook_url": null,
+      "first_seen": "2026-02-08T01:34:28.046774",
+      "kill_count": 0,
+      "last_killed": null,
+      "last_killed_timestamp": null,
+      "respawn_hours": 66.0
+    }
+  ]
+}
